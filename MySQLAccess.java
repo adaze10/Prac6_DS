@@ -12,10 +12,10 @@ public class MySQLAccess {
   private PreparedStatement preparedStatement = null;
   private ResultSet resultSet = null;
 
-  final private String host = "localhost";
-  final private String user = "root";
-  final private String passwd = "xequebo";
-  final private String database = "prac6_db";
+  final private String host = "xxxxxxx";
+  final private String user = "xxxxxxx";
+  final private String passwd = "xxxxxx";
+  final private String database = "xxxxxx";
  
   public void connectToDB() throws Exception {
       try {
